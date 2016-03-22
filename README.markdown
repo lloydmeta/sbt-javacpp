@@ -1,4 +1,4 @@
-# SBT-JavaCPP
+# SBT-JavaCPP : HAS MOVED under the [bytedeco organisation](https://github.com/bytedeco/sbt-javacpp)
 
 Makes it easy to start playing around with JavaCPP in an SBT project.
 
